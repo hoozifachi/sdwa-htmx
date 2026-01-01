@@ -1,0 +1,17 @@
+{
+    "4091f0f3-2534-4a0a-9758-df5141f3f9a1": {
+        "id": "4091f0f3-2534-4a0a-9758-df5141f3f9a1",
+        "name": "Comet",
+        "breed": "Whippet"
+    },
+    "50eda5bc-71cb-4587-9911-070adeef9650": {
+        "id": "50eda5bc-71cb-4587-9911-070adeef9650",
+        "name": "Oscar",
+        "breed": "German Shorthaired Pointer"
+    },
+    "37919833-e982-4899-b1fa-6b3045024ed5": {
+        "id": "37919833-e982-4899-b1fa-6b3045024ed5",
+        "name": "Clyde",
+        "breed": "Cocker Spaniel"
+    }
+}
